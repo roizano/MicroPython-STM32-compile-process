@@ -2,6 +2,8 @@
 
 How to compile micropython stm32 in ubuntu 18.02 
 
+This will solve the issue of  `RAM_D2' overflowed by 805,289,984 bytes error
+
 It is not recommended to compile the firmware yourself, just use the firmware provided by us. If you really need to compile, please bring your own basic Linux knowledge. The following are the operations under Linux
 
 Install dependencies:
