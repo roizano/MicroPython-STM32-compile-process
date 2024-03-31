@@ -1,4 +1,5 @@
-# MicroPython-STM32-compile-process
+# MicroPython STM32 compile process in Ubuntu 18.02
+
 How to compile micropython stm32 in ubuntu 18.02 
 
 It is not recommended to compile the firmware yourself, just use the firmware provided by us. If you really need to compile, please bring your own basic Linux knowledge. The following are the operations under Linux
