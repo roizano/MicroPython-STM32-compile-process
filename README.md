@@ -41,8 +41,9 @@ clone micropython:
 git clone https://github.com/micropython/micropython.git
 cd micropython
 git submodule update --init
-cd mpy-
+cd mpy-cross
 make -j4
+cd ../ports/stm32/
 ```
 Select the board you would like to compile and compile it:
 
